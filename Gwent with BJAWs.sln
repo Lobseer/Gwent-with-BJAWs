@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gwent with BJAWs.Plugins", "Gwent with BJAWs.Plugins.csproj", "{B63EF904-B8F0-6C9D-A3DD-13233EDE6A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gwent with BJAWs", "Gwent with BJAWs.csproj", "{6BA5B2FC-746B-2240-7777-A6D513CDC44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gwent with BJAWs.Editor.Plugins", "Gwent with BJAWs.Editor.Plugins.csproj", "{33267D66-138D-5B0A-EFF5-F79257919936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63EF904-B8F0-6C9D-A3DD-13233EDE6A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63EF904-B8F0-6C9D-A3DD-13233EDE6A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63EF904-B8F0-6C9D-A3DD-13233EDE6A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63EF904-B8F0-6C9D-A3DD-13233EDE6A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA5B2FC-746B-2240-7777-A6D513CDC44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA5B2FC-746B-2240-7777-A6D513CDC44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA5B2FC-746B-2240-7777-A6D513CDC44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA5B2FC-746B-2240-7777-A6D513CDC44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33267D66-138D-5B0A-EFF5-F79257919936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33267D66-138D-5B0A-EFF5-F79257919936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33267D66-138D-5B0A-EFF5-F79257919936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33267D66-138D-5B0A-EFF5-F79257919936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
